@@ -3,4 +3,4 @@ layout: page
 title: Contact
 ---
 
-Update the `menu/contact.md` file to change your Contact page.
+To contact Janelle Kwofie email her at jkwofie0526@sdsu.edu or clcik one of the social media links above.
