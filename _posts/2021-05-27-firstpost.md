@@ -3,7 +3,7 @@ layout: post
 title: "First Post"
 author: "Janelle Kwofie"
 categories: journal
-tags: [documentation,sample]
+tags: [documentation,firstpost]
 image: FirstPost.JPG
 
 ---
